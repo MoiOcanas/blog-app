@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  font-family: 'Lato', sans-serif;
+  background-color: #F0F0F0;
+}
+
+.mt-10 {
+  margin-top: 100px;
+}
+
+.navbar-light .navbar-toggler {
+  border: none !important;
+}
